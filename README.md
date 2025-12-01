@@ -9,7 +9,8 @@ About me:
 - ⚡ Fun fact: like ranching, NFL football and play Surf music!
 
 Technical Skills:
+
 Python, Cursor, PyCharm, Pytest, Selenium, Android Studio, BlueStacks, JIRA, Apidoc, Swagger, Postman, REST, JSON.
-Bash, PostgreSQ, DevTools, Figma, Charles, Agile, Scrum
+Bash, PostgreSQ, DevTools, Figma, Charles, Agile, Scrum.
 
 
