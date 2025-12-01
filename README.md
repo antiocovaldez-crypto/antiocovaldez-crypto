@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**antiocovaldez-crypto/antiocovaldez-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:>
+About me:
 
 - 🔭 I’m currently working on getting my first job as QA Tester.
 - 🌱 I’m currently learning QA AI Automation with Cursor
 - 👯 I’m looking to collaborate on SAP ERP, Medical and Aerospace QA
-<- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...>
-- 📫 How to reach me: ...
-<- 😄 Pronouns: ...>
+- 📫 How to reach me: antiocovaldez@gmail.com
 - ⚡ Fun fact: like ranching, NFL football and play Surf music!
+
+Technical Skills:
+Python, Cursor, PyCharm, Pytest, Selenium, Android Studio, BlueStacks, JIRA, Apidoc, Swagger, Postman, REST, JSON.
+Bash, PostgreSQ, DevTools, Figma, Charles, Agile, Scrum
+
 
