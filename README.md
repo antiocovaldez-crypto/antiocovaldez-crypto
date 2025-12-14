@@ -1,6 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
-About me:
+
+# About me:
 
 - 🔭 I’m currently working on getting my first job as QA Tester.
 - 🌱 I’m currently learning QA AI Automation with Cursor
@@ -8,7 +9,7 @@ About me:
 - 📫 How to reach me: antiocovaldez@gmail.com
 - ⚡ Fun fact: like ranching, NFL football and play Surf music!
 
-Tech Stack
+
 # 🔧 QA & Testing Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
