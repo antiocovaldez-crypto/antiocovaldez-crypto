@@ -74,10 +74,10 @@
 
 ### 💼 Sprint 5: Curso de Preparación de Carrera
 Construcción de presencia profesional y habilidades blandas
-- Optimización de perfil profesional en LinkedIn
-- Desarrollo de portafolio técnico en GitHub
+- [Optimización de perfil profesional en LinkedIn](https://www.linkedin.com/in/ramon-valdez-qa-tester/)
+- [Desarrollo de portafolio técnico en GitHub](https://github.com/antiocovaldez-crypto)
 - Preparación para entrevistas técnicas de QA
-- Tecnologías: LinkedIn, GitHub Pages, Portfolio development
+- [Tecnologías: LinkedIn, GitHub Pages, Portfolio development](https://ramon-valdez-qa-tester.lovable.app/)
 
 ---
 
@@ -126,6 +126,16 @@ Introducción a la automatización de pruebas web
 - Documentación profesional de casos de prueba
 - Reporte final de calidad y mejores prácticas
 - **Tecnologías:** Testing manual, Documentación, Jira, Metodologías QA
+- 
+
+# 🗃 Portafolio de Proyectos QA Engineering Propios
+
+## 📊 Mas Desafios por Venir!!!
+
+### - Azure DevOps Test Plans
+### - UFT/QTP
+### - Playwright
+### - Guidewire (?!)
 
 
 
