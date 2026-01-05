@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on getting my first job as QA Tester.
 - 🌱 I’m currently learning QA AI Automation with Cursor
-- 👯 I’m looking to collaborate on SAP ERP, Medical and Aerospace QA
+- 👯 I’m looking to collaborate on TRICENTIS LIVECOMPARE, qTESTER & TOSCA QA PROYECTS
 - 📫 How to reach me: antiocovaldez@gmail.com
 - ⚡ Fun fact: like ranching, NFL football and play Surf music!
 
@@ -131,6 +131,10 @@ Introducción a la automatización de pruebas web
 # 🗃 Portafolio de Proyectos QA Engineering Propios
 
 ## 📊 Mas Desafios por Venir!!!
+
+### [📝 Tricentis LiveCompare Smart Impact for Testers portfolio](https://github.com/antiocovaldez-crypto/xxxx)
+
+
 
 ### - Azure DevOps Test Plans
 ### - UFT/QTP
