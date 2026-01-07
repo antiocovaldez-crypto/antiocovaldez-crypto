@@ -132,7 +132,7 @@ Introducción a la automatización de pruebas web
 
 ## 📊 Mas Desafios por Venir!!!
 
-### [📝 Tricentis LiveCompare Smart Impact Analysis for Testers: Sample Case](https://github.com/antiocovaldez-crypto/xxxx)
+### [📝 Tricentis LiveCompare Smart Impact Analysis for Testers: Sample Case](https://github.com/antiocovaldez-crypto/LiveCompare-explanation)
 
 
 
