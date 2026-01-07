@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on getting my first job as QA Tester.
 - 🌱 I’m currently learning QA AI Automation with Cursor
-- 👯 I’m looking to collaborate on TRICENTIS LIVECOMPARE, qTESTER & TOSCA QA PROYECTS
+- 👯 I’m looking to collaborate on TRICENTIS LIVECOMPARE, qTESTER & TOSCA QA Projects
 - 📫 How to reach me: antiocovaldez@gmail.com
 - ⚡ Fun fact: like ranching, NFL football and play Surf music!
 
@@ -132,7 +132,7 @@ Introducción a la automatización de pruebas web
 
 ## 📊 Mas Desafios por Venir!!!
 
-### [📝 Tricentis LiveCompare Smart Impact for Testers portfolio](https://github.com/antiocovaldez-crypto/xxxx)
+### [📝 Tricentis LiveCompare Smart Impact Analysis for Testers: Sample Case](https://github.com/antiocovaldez-crypto/xxxx)
 
 
 
